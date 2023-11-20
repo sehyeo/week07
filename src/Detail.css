@@ -1,0 +1,14 @@
+.detail-page-container {
+    display:flex;
+}
+.detail-page-container img {
+    background-color:aliceblue;
+    
+}
+.movie-container img {
+    width:180px;
+    height:380px;
+}
+.movie-info {
+    
+}

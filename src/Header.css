@@ -1,0 +1,52 @@
+.root-wrap{
+    position:absolute;
+    top:0;
+    bottom:0;
+    width:100%;
+}
+.header-container{
+    background-color:rgba(3,37,65,1);
+}
+.header-wrap{
+    height:64px;
+    max-width:1400px;
+    margin:0 auto;
+    
+    align-items:center;
+}
+.header-left-wrap{
+    display:flex;
+}
+.header-left-wrap ul{
+    display:flex;
+    color:rgba(3,37,65,1);
+    margin-left:15px;
+}
+.header-left-wrap li{
+    margin-right:20px;
+
+}
+.header-nav-item{
+    color:white;
+    text-decoration:none;
+}
+img{
+    margin-left:100px;
+}
+svg {
+    margin-bottom:-80px;
+}
+div p{
+    color:white;
+    margin-top:-25px;
+}
+.logbutton{
+    border-radius:10px;
+    width:70px;
+    height:30px;
+    margin-top:13px;
+}
+.loginpage {
+    color:white;
+    text-decoration:none;
+}
